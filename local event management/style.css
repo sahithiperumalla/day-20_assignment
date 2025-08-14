@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.custom-box {
+  border: 5px solid #007bff;
+  padding: 20px;
+  margin: 15px 0;
+  background-color: #eaf4ff;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  letter-spacing: 1px;
+}
